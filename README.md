@@ -1,5 +1,5 @@
 # Hotel_cancellation_EDA
-This project is based on Exploratory Data Analysis (EDA) of Hotel Cancellation
+This project is based on Exploratory Data Analysis (EDA) of Hotel Booking Cancellation
 
 - The project analyzes hotel booking cancellation patterns and the factors contributing to them.
 - It addresses the growing impact of online booking platforms and aims to provide insights for hotel managers to optimize revenue management.
